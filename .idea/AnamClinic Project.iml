@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/base_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/base_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/commons/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/commons/build" />
+      <excludeFolder url="file://$MODULE_DIR$/commons_dependencies/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/commons_dependencies/build" />
+      <excludeFolder url="file://$MODULE_DIR$/core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/home/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/home/build" />
+      <excludeFolder url="file://$MODULE_DIR$/module_vet/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/module_vet/build" />
+      <excludeFolder url="file://$MODULE_DIR$/sign_in/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/sign_in/build" />
+      <excludeFolder url="file://$MODULE_DIR$/sign_up/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/sign_up/build" />
+      <excludeFolder url="file://$MODULE_DIR$/splash/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/splash/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
