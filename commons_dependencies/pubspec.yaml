@@ -25,6 +25,9 @@ dependencies:
   #mobx
   flutter_mobx: ^2.0.2
 
+  #Lottie
+  lottie: ^1.2.0
+
 
 dev_dependencies:
   flutter_test:

@@ -4,11 +4,43 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf923bb0-6c09-47e7-8d09-2d3f79b46a5d" name="Default Changelist" comment="" />
+    <list default="true" id="bf923bb0-6c09-47e7-8d09-2d3f79b46a5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/commons/lib/shared/widgets/buttons/button_principal.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/lib/shared/widgets/buttons/button_secondary.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sign_in/assets/lotties/welcome_video.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sign_in/lib/app/pages/sign_in/sign_in_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sign_in/lib/app/pages/sign_in/sign_in_presenter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sign_in/lib/app/pages/welcome/welcome_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sign_in/lib/app/pages/welcome/welcome_presenter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sign_in/lib/app/sign_in_module.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sign_in/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commons/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/commons/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commons_dependencies/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/commons_dependencies/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commons_dependencies/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/commons_dependencies/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commons_dependencies/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/commons_dependencies/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/lib/app/app_module.dart" beforeDir="false" afterPath="$PROJECT_DIR$/core/lib/app/app_module.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/core/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/core/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sign_in/lib/sign_in.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sign_in/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/sign_in/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sign_in/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/sign_in/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sign_in/test/sign_in_test.dart" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1xPKrlRn8dRAHMqeHeHEyPp1gm4" />
   <component name="ProjectViewState">

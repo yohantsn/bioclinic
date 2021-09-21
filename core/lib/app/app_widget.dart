@@ -7,7 +7,7 @@ class AppWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      initialRoute: ConstRoutes.initialRoute(""),
+      initialRoute: ConstRoutes.initialRoute(ConstRoutes.signInModule),
       theme: AppColorScheme.themeLight,
     ).modular();
   }
